@@ -31,10 +31,13 @@ The diagram below shows the loss curve for the generator and the discriminator
 ## Examples
 
 Example 1
+
 Age changes from 80 to 5.
 
-![Man Real Age 80](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/age80-real.png "Man-Real Age 80") | ![Man Fake Age 5](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/age5-real.png "Man-Fake Age 5")
+![Man Real Age 80](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/age80-real.png "Man-Real Age 80") ![Man Fake Age 5](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/age5-real.png "Man-Fake Age 5")
 
 Example 2
+
 Age changes from 30 to 80.
+
 ![Woman Real Age 30](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/real30.png "Woman-Real Age 30") | ![Woman Fake Age 80](https://github.com/rishabhsahlot/AgeGAN/blob/AgeGANFirstTag/images/examples/fake30.png "Woman-Fake Age 80")
